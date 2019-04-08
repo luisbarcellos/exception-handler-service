@@ -1,4 +1,4 @@
-# multiproject-jacoco
+# exception-handler-service
 
 ### Utilizado no projeto:
     *   Spring boot
