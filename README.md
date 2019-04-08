@@ -24,11 +24,18 @@ Retorna uma mensagem do módulo de multiproject-jacoco-impl.
         
 * URL:
 
-        http://localhost:8080/multiproject-jacoco/hello-world/impl
+        localhost:8080/exception-handler/exception
         
 
 * Response: 
+
+        {
+            "timestamp": "2019-04-08 19:41:17",
+            "status": "INTERNAL_SERVER_ERROR",
+            "message": "Testando Exception personalizada!",
+            "errors": []
+        }
         
 ## Conclusão:
 
-        Foi possível personalizar facilmente padrões de request.
+        Foi possível personalizar facilmente padrões de exceptions.
