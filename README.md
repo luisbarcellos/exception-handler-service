@@ -11,6 +11,10 @@
 
 Obs.: Necessário acesso a rede para download das dependências.
 
+
+## 2- Para rodar o projeto, executar o comando abaixo na raiz do projeto:
+    ./gradlew bootrun
+    
 ## Recursos
 
 ### 1. Testando Exception
