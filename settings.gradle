@@ -1,0 +1,2 @@
+rootProject.name = 'exception-handler-service'
+include 'exception-handler-service-app', 'exception-handler-service-impl'

@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  servlet:
+    contextPath: /exception-handler
+spring:
+  main:
+    banner-mode: "off"
+    application:
+      name: exception-handler
