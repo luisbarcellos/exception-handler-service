@@ -19,7 +19,7 @@ Obs.: Necessário acesso a rede para download das dependências.
 
 ### 1. Testando Exception
 
-Retorna uma mensagem do módulo de multiproject-jacoco-impl.
+Retorna uma exceção personalizada.
 
 #### 1.1 Exemplo de Consumo
 * Método:
